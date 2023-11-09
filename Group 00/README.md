@@ -14,3 +14,4 @@
 
 ## 連結
 * Google Slides: https://docs.google.com/presentation/d/... 
+* Colab: https://colab.research.google.com/drive/1hbDAPMrKUY0oPEDH2EGMfbGcccFndmsn?usp=sharing
