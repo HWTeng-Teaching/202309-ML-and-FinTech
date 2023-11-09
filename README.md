@@ -17,3 +17,4 @@ The course is opened in 2023 at NYCU (National Yang Ming Chiao Tung University),
 | 11 | 財金碩1 | 陳怡仁 | Corporate bankcrupt dection |
 | 12 | 財金碩1 | 許誌榮 | Returns prediction, assets in Taiwan |
 | 13 | 財金博1 | 秦潤川 | Corporate bond default/liquidity (predictors) |
+| 14 | Test | Student A | XXX |
