@@ -15,3 +15,5 @@ The significance of forecasting short-term returns in Bitcoin lies in its potent
 * Challenges*
 
 However, the challenge is formidable. Bitcoin's price patterns defy many conventional financial theories, and its markets operate around the clock, generating vast amounts of data to process. The volatile nature of Bitcoin necessitates a forecasting model that can adapt rapidly to changing market conditions and capture the essence of short-term fluctuations rooted in both fundamental and speculative factors.
+
+## 2.
