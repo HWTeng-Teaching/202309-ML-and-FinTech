@@ -1,12 +1,11 @@
-# Using Technical Indicators to predict the return of Bitcoin 
-# with Machine Learning
+# Using Technical Indicators to predict the return of Bitcoin with Machine Learning
 
 - 作者：張宸瑋、劉冠明
 - 創建日期：2023年11月10日  
 - 最後編輯日期：2023年11月10日  
 
 ## 動機
-We want to predict the return of Bitcoin under the timeframe of 1-minute k-line with several technical indicators such as kd, rsi and obv.
+We want to predict the return of Bitcoin under the timeframe of 1-minute k-line with several technical indicators such as kd, rsi and obv. The mehtod would be some major machine learning algorithms.
 
 
 ## 連結
