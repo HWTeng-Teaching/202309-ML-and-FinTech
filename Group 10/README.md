@@ -1,4 +1,4 @@
-# Title 
+# Predicting ETF Price Movements Using Market Factors
 - Author: Chan Nok Hang 
 - Date: 2023/11/10 
 ## 1. Project Motivation
