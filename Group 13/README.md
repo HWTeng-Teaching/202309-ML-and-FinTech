@@ -7,7 +7,7 @@
 ## Motivation
 
  Cast as the sleepy, boring backwater of the capital markets, the bond market doesn’t always get the attention it deserves.
- This study aims to examine the application of machine learning techniques to forecast corporate bond defaults within the United States bond market 
+ This study aims to examine the application of machine learning techniques to forecast corporate bond defaults within the United States bond market.
 
 ## Link
 
