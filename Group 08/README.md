@@ -5,7 +5,7 @@
 - 最後編輯日期：2023年11月10日  
 
 ## 動機
-![](https://imgur.com/gallery/QY9XtIc)
+![](https://i.imgur.com/xkWWuzO.jpeg)
 
 **Credit Card Fraud** With the development of financial technology, electronic payments have gradually become a common method for people to make payments, which has led to malicious individuals attempting to commit credit card fraud for personal gain.
 
