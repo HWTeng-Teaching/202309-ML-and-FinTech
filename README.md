@@ -13,7 +13,7 @@ The course is opened in 2023 at NYCU (National Yang Ming Chiao Tung University),
 | 7 | 應數碩1；資財系2 | 劉冠明；張宸瑋 | Credit card fraud detection |
 | 8 | 財金碩1；財金碩1 | 葉宗翰；施昱全 | Credit card fraud detection? (Kaggle) |
 | 9 | 財金碩1 | 黃鈺婷 | Prediction something? |
-| 10 | 財金碩1 | 陳諾恒 | Prediction something? |
+| 10 | 財金碩1 | 陳諾恒 | Predicting ETF Price Movements Using Market Factors |
 | 11 | 財金碩1 | 陳怡仁 | Corporate bankcrupt dection |
 | 12 | 財金碩1 | 許誌榮 | Returns prediction, assets in Taiwan |
 | 13 | 財金博1 | 秦潤川 | Corporate bond default/liquidity (predictors) |
