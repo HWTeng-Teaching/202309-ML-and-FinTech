@@ -6,7 +6,7 @@
 
 ## Motivation
 
-We have experience in trading stocks and crypto currencies and technical indicators have been a major tool and reference used when we trade actively or based on are own opinions. We want to know if machine learning can maximize the usage of technical indicators by predicting the return of bitcoin; therefore, producing more profit in trading.
+  We have experience in trading stocks and crypto currencies and technical indicators have been a major tool and reference used when we trade actively or based on are own opinions. We want to know if machine learning can maximize the usage of technical indicators by predicting the return of bitcoin; therefore, producing more profit in trading.
 
 
 
