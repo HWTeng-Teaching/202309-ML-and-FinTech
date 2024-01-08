@@ -12,3 +12,4 @@
 ## 連結
 * Google Slides: https://docs.google.com/presentation/d/1UahMXL0fR4hQmpuaBzlgzLEPfT_tNGxYrQXEVRXzGVY/edit?usp=drivesdk
 * Colab: https://colab.research.google.com/drive/1Stbga1lvq-ktHvuZOhyNyAfzp394V3kT#scrollTo=ItY_ozCX7DXh
+* Data Resource: https://www.kaggle.com/code/roystonrodrigues26/credit-card-fraud-detection-dataset-2023
